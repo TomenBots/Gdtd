@@ -1,7 +1,6 @@
-FROM ubuntu:latest
+FROM python:3.11.0
 
-WORKDIR /usr/src/app
-RUN chmod 777 /usr/src/app
+WORKDIR /root/bot
 RUN apt-get -qq update
 RUN apt-get -qq install -y git python3 python3-pip \
     locales python3-lxml aria2 \
