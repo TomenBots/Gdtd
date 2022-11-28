@@ -4,7 +4,7 @@ class config:
     API_HASH = "76b4e277c75aaf991589d78eca42946a"
     DATABASE_URL = ""
     SUDO_USERS = "5227230295" # Sepearted by space.
-    SUPPORT_CHAT_LINK = ""
+    SUPPORT_CHAT_LINK = "https://t.me/khainezay"
     DOWNLOAD_DIRECTORY = "./downloads/"
     G_DRIVE_CLIENT_ID = "487477568849-25tlcvof49jk3v14m324q4bfcmh6jhe0.apps.googleusercontent.com"
     G_DRIVE_CLIENT_SECRET = "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"
