@@ -1,13 +1,13 @@
 class config:
-    BOT_TOKEN = "5869345849:AAGwswvaWjPxo4l7Yzp29GJpRxCRtVWYqb4"
-    APP_ID = "10112326"
-    API_HASH = "76b4e277c75aaf991589d78eca42946a"
-    DATABASE_URL = "postgres://sstlspacgjbrgp:2fa147bf10a295818f64237edeb6b81da3c7fbd5c745494f8b99e6e064cef1b5@ec2-34-225-159-178.compute-1.amazonaws.com:5432/d5jc0e3sm604p5"
-    SUDO_USERS = "5227230295" # Sepearted by space.
-    SUPPORT_CHAT_LINK = "https://t.me/khainezay"
+    BOT_TOKEN = "6350432583:AAFetka9idXrEdQQCL5dBMAACVBmu0ketGk"
+    APP_ID = "14142245"
+    API_HASH = "aecbe5f3d18bc8eed18121063e6c1a24"
+    DATABASE_URL = "postgres://gdtd:ECevtVvtK530c4fpik3SEaJ7MeXmg48F@dpg-co8eo1f109ks73edcn3g-a.oregon-postgres.render.com/gdtd"
+    SUDO_USERS = "6697298553" # Sepearted by space.
+    SUPPORT_CHAT_LINK = "https://t.me/TomenLMGroup"
     DOWNLOAD_DIRECTORY = "./downloads/"
-    G_DRIVE_CLIENT_ID = "487477568849-25tlcvof49jk3v14m324q4bfcmh6jhe0.apps.googleusercontent.com"
-    G_DRIVE_CLIENT_SECRET = "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"
+    G_DRIVE_CLIENT_ID = "235303077895-2v4cssbgho5kt6v0oeiolpr1abrt45u2.apps.googleusercontent.com"
+    G_DRIVE_CLIENT_SECRET = "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"
 
 
 class BotCommands:
